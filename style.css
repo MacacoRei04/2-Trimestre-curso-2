@@ -35,3 +35,9 @@ body {
     display: block;
     text-decoration: none;
 }
+
+.botao_secundario {
+    background-color: transparant;
+    border: 2px solid var(--branco-principal);
+}
+
